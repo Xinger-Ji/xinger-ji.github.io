@@ -1,4 +1,93 @@
 
 {
-  "photos": []
+  "photos": [
+    {
+      "src": "photos/Baboon Mother and Child, Aug, 2022 at Cape of Good Hope, South Africa.JPG",
+      "title": "Baboon Mother and Child",
+      "location": "Cape of Good Hope, South Africa",
+      "category": "",
+      "caption": "August 2022",
+      "alt": ""
+    },
+    {
+      "src": "photos/Erhai, April 28, 2021 at Yunan, China.jpg",
+      "title": "Erhai",
+      "location": "Yunan, China",
+      "category": "",
+      "caption": "April 28, 2021",
+      "alt": ""
+    },
+    {
+      "src": "photos/Late Night Covered Bridge, Nov 18th, 2017 at Fujian, China.jpg",
+      "title": "Late Night Covered Bridge",
+      "location": "Fujian, China",
+      "category": "",
+      "caption": "November 18, 2017",
+      "alt": ""
+    },
+    {
+      "src": "photos/Moonlight, Aug, 2022 at Cape Town, Sout hAfrica.jpg",
+      "title": "Moonlight",
+      "location": "Cape Town, South Africa",
+      "category": "",
+      "caption": "August 2022",
+      "alt": ""
+    },
+    {
+      "src": "photos/Night Sky in the Desert, Dec 26th, 2019 at Zagora, Morocco.jpg",
+      "title": "Night Sky in the Desert",
+      "location": "Zagora, Morocco",
+      "category": "",
+      "caption": "December 26, 2019",
+      "alt": ""
+    },
+    {
+      "src": "photos/Not A Paint, May 24th, 2018 at Luzern, Switzerland.jpg",
+      "title": "Not A Paint",
+      "location": "Luzern, Switzerland",
+      "category": "",
+      "caption": "May 24, 2018",
+      "alt": ""
+    },
+    {
+      "src": "photos/Ostrich, Aug, 2022 at Cape of Good Hope, South Africa.JPG",
+      "title": "Ostrich",
+      "location": "Cape of Good Hope, South Africa",
+      "category": "",
+      "caption": "August 2022",
+      "alt": ""
+    },
+    {
+      "src": "photos/The Spotlight, Nov 17, 2019 at Chevalier Theatre, Boston.jpg",
+      "title": "The Spotlight",
+      "location": "Chevalier Theatre, Boston",
+      "category": "",
+      "caption": "November 17, 2019",
+      "alt": ""
+    },
+    {
+      "src": "photos/Two Girls and a Seagull, Dec 21, 2019 at Essaouira, Morocco.jpg",
+      "title": "Two Girls and a Seagull",
+      "location": "Essaouira, Morocco",
+      "category": "",
+      "caption": "December 21, 2019",
+      "alt": ""
+    },
+    {
+      "src": "photos/Velvet Revolution, June 3rd, 2018 at Prague, Czech.jpg",
+      "title": "Velvet Revolution",
+      "location": "Prague, Czech",
+      "category": "",
+      "caption": "June 3, 2018",
+      "alt": ""
+    },
+    {
+      "src": "photos/Zebras, Aug, 2022 at Some Wildlife Reserve, South Africa.JPG",
+      "title": "Zebras",
+      "location": "Some Wildlife Reserve, South Africa",
+      "category": "",
+      "caption": "August 2022",
+      "alt": ""
+    }
+  ]
 }
